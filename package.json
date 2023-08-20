@@ -1,0 +1,32 @@
+{
+  "name": "professional-react",
+  "version": "1.0.0",
+  "description": "This is my revision of the react js concepts.",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kshub44kamble/reactjs-learning.git"
+  },
+  "keywords": [
+    "reactjs"
+  ],
+  "author": "Shubham Kamble",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kshub44kamble/reactjs-learning/issues"
+  },
+  "homepage": "https://github.com/kshub44kamble/reactjs-learning#readme",
+  "devDependencies": {
+    "parcel": "^2.9.3",
+    "process": "^0.11.10"
+  },
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0"
+  },
+  "browerslist": [
+    "last 2 versions"
+  ]
+}
